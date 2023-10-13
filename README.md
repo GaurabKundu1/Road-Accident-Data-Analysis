@@ -78,8 +78,12 @@ Below is a snippet of the final dashboard in Excel:
 
 ## Recommendations based on the Analysis
 
-- By comparing casualty trends between the current and previous years on a monthly basis, the dashboard identifies critical periods of October and November. The road safety measure by the traffic police and other stakeholders must be active and focused during these high-risk periods.
-- Car drivers form bulk of the casualties so they must be targeted for awareness camps and strict monitoring, periodic check-ups on safe driving.
-- Extra safety measures should be placed Single Carriageway roads and they must be upgraded to double lane wherever possible.
-- Understanding casualty distribution based on different road surface conditions helps pinpoint areas where road maintenance and surface improvements are essential.
-- Urban areas should be targeted for interventions to improve road safety in specific and during daytime.
+1. By comparing casualty trends between the current and previous years on a monthly basis, the dashboard identifies critical periods of October and November. The road safety measure by the traffic police and other stakeholders must be active and focused during these high-risk periods.
+2. Car drivers form bulk of the casualties so they must be targeted for awareness camps and strict monitoring, periodic check-ups on safe driving.
+3. Extra safety measures should be placed Single Carriageway roads and they must be upgraded to double lane wherever possible.
+4. Understanding casualty distribution based on different road surface conditions helps pinpoint areas where road maintenance and surface improvements are essential.
+5. Urban areas should be targeted for interventions to improve road safety in specific and during daytime.
+
+## Conclusion
+
+This Road Accident Analytics Dashboard opens the door to data-driven decision-making, enabling stakeholders to implement evidence-based interventions that enhance road safety. It serves as a valuable tool for policymakers, traffic authorities, and safety advocates alike.
