@@ -29,3 +29,16 @@ Clients want to create a road accident dashboard for the years 2021 and 2022 so 
 - Current Year Casualties by Area/ Location & by Day/Night
 - Total Casualties and Total Accidents by Location
 
+## Data used
+
+The dataset can be found [here]()
+
+## Data Cleaning and Transformation
+
+This stage began with getting to know the dataset and checking for any data quality issues.
+
+1. Checking NULL values, blanks and Errors
+2. Removing duplicates, and irrelevant columns.
+3. Made sure data is consistent and clean with respect to data type, data format and values used.
+4. Creating 2 new attributes 'Year' and 'Month' were added for logical and easy interpretation of dataset.
+
