@@ -54,6 +54,8 @@ Below is a snippet of the Data Analysis Sheet:
 
 Finally, the dashboard was created by inserting and customizing the pivot charts of corresponding pivot table. For user friendly and interactive experience slicers and timelines were incorporated. Hyperlinks and connections were also added to necessary icons for seamless navigation.
 
+The Excel File can be Downloaded from [here](https://docs.google.com/spreadsheets/d/1H7ccguT51BBD7X870kcXD9Yo3_Yr-IKW/edit?usp=sharing&ouid=105165848316617496246&rtpof=true&sd=true)
+
 Below is a snippet of the final dashboard in Excel:
 
 <img src = https://github.com/GaurabKundu1/GaurabKundu/assets/86102231/24b0ace5-65f5-4f17-9d43-05beae2dad27>
