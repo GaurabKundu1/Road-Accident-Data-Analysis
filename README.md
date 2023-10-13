@@ -31,7 +31,7 @@ Clients want to create a road accident dashboard for the years 2021 and 2022 so 
 
 ## Data used
 
-The dataset can be found [here]()
+The dataset can be found [here](https://docs.google.com/spreadsheets/d/1V-u_v6Ntd_F_Haqw2f1ZjNT54HNmu7Rn/edit?usp=sharing&ouid=113907451729758661404&rtpof=true&sd=true)
 
 ## Data Cleaning and Transformation
 
@@ -41,4 +41,12 @@ This stage began with getting to know the dataset and checking for any data qual
 2. Removing duplicates, and irrelevant columns.
 3. Made sure data is consistent and clean with respect to data type, data format and values used.
 4. Creating 2 new attributes 'Year' and 'Month' were added for logical and easy interpretation of dataset.
+
+## Data Analysis
+
+Created a "Data Analysis" sheet to summarize all the pivot table Data for a new user or developer or client to ease their work and gathered information. On this sheet nine pivot tables were created to summarise the data and help identify trends in the dataset focusing on relationship between number of casualties and many factors such as- casualty type, vehicle type, road type, location etc. Monthly trends were also analysed for the years 2021 and 2022.
+
+Below is a snippet of the Data Analysis Sheet: 
+
+<img src = https://github.com/GaurabKundu1/GaurabKundu/assets/86102231/01bdbd8e-a1b8-4aff-b84b-48b17a8eff6a>
 
