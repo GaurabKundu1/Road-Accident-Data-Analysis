@@ -9,3 +9,10 @@ A major issue that has an impact on communities all across the world is road saf
 ## Tools & Technology Used
 
 <img src = https://github.com/GaurabKundu1/GaurabKundu/assets/86102231/5705b2f1-10bd-4bfc-abd7-102cca3943b6 height:50px width:50px >
+
+## Skills showcased in this Project
+
+- Data Cleaning, Data Transformation, Data Analysis
+- Filtering, Sorting and Conditional function.
+- Pivot Tables and Pivot Chart
+- Data Visulisation and Dashboard creation
