@@ -50,3 +50,10 @@ Below is a snippet of the Data Analysis Sheet:
 
 <img src = https://github.com/GaurabKundu1/GaurabKundu/assets/86102231/01bdbd8e-a1b8-4aff-b84b-48b17a8eff6a>
 
+## Data Visualization
+
+Finally, the dashboard was created by inserting and customizing the pivot charts of corresponding pivot table. For user friendly and interactive experience slicers and timelines were incorporated. Hyperlinks and connections were also added to necessary icons for seamless navigation.
+
+Below is a snippet of the final dashboard in Excel:
+
+<img src = https://github.com/GaurabKundu1/GaurabKundu/assets/86102231/24b0ace5-65f5-4f17-9d43-05beae2dad27>
